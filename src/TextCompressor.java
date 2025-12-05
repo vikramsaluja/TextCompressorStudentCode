@@ -31,14 +31,14 @@ public class TextCompressor {
 
     private static void compress() {
 
-        // TODO: Complete the compress() method
+
 
         BinaryStdOut.close();
     }
 
     private static void expand() {
 
-        // TODO: Complete the expand() method
+
 
         BinaryStdOut.close();
     }
